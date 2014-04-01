@@ -1,0 +1,8 @@
+2014-03-31 20:37:23,781 [main] INFO  [com.zel.manager.LibraryManager] - 成功--加载缓存的简繁关联词典!
+2014-03-31 20:37:25,321 [main] INFO  [com.zel.manager.LibraryManager] - 成功--加载词典库文件!
+2014-03-31 20:37:28,004 [main] INFO  [com.zel.manager.LibraryManager] - 成功--加载缓存的Trie树和词性对应表!
+2014-03-31 20:37:28,902 [main] INFO  [com.zel.manager.LibraryManager] - 成功--加载缓存的bi-gram关联词典!
+2014-03-31 20:37:36,092 [main] INFO  [com.zel.manager.LibraryManager] - 成功--加载缓存的简繁关联词典!
+2014-03-31 20:37:37,133 [main] INFO  [com.zel.manager.LibraryManager] - 成功--加载词典库文件!
+2014-03-31 20:37:38,914 [main] INFO  [com.zel.manager.LibraryManager] - 成功--加载缓存的Trie树和词性对应表!
+2014-03-31 20:37:39,520 [main] INFO  [com.zel.manager.LibraryManager] - 成功--加载缓存的bi-gram关联词典!
